@@ -3,20 +3,28 @@
   "description": "联系邮箱：xiguabox@gmail.com",
   "icons": [
     {
-      "name": "西瓜logo-cf",
+      "name": "透明-cf线路",
       "url": "https://pic.xghub.de/logo.png"
     },
     {
-      "name": "西瓜logo2-cf",
+      "name": "矩形-cf线路",
       "url": "https://pic.xghub.de/logo2.png"
     },
     {
-      "name": "西瓜logo-github",
+      "name": "白底-cf线路",
+      "url": "https://pic.xghub.de/logo2.png"
+    },
+    {
+      "name": "透明-gh线路",
       "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/logo.png"
     },
     {
-      "name": "西瓜logo2-github",
+      "name": "矩形-gh线路",
       "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/logo2.png"
+    },
+    {
+      "name": "白底-gh线路",
+      "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/logo3.png"
     }
   ]
 }
