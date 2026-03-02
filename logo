@@ -1,0 +1,10 @@
+{
+  "name": "西瓜Emby",
+  "description": "联系邮箱：xiguabox@gmail.com",
+  "icons": [
+    {
+      "name": "xigualogo",
+      "url": "https://pic.xghub.de/logo.png"
+    }
+  ]
+}
