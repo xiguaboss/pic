@@ -3,8 +3,20 @@
   "description": "联系邮箱：xiguabox@gmail.com",
   "icons": [
     {
-      "name": "xigualogo",
+      "name": "西瓜logo-cf",
       "url": "https://pic.xghub.de/logo.png"
+    },
+    {
+      "name": "西瓜logo2-cf",
+      "url": "https://pic.xghub.de/logo2.png"
+    },
+    {
+      "name": "西瓜logo-github",
+      "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/logo.png"
+    },
+    {
+      "name": "西瓜logo2-github",
+      "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/logo2.png"
     }
   ]
 }
