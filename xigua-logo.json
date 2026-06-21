@@ -1,29 +1,29 @@
 {
-  "name": "西瓜Emby",
+  "name": "🍉",
   "description": "联系邮箱：xiguabox@gmail.com",
   "icons": [
     {
-      "name": "透明-cf线路",
+      "name": "透明-cf",
       "url": "https://pic.xghub.de/logo.png"
     },
     {
-      "name": "矩形-cf线路",
+      "name": "矩形-cf",
       "url": "https://pic.xghub.de/logo2.png"
     },
     {
-      "name": "白底-cf线路",
+      "name": "白底-cf",
       "url": "https://pic.xghub.de/logo3.png"
     },
     {
-      "name": "透明-gh线路",
+      "name": "透明-gh",
       "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/logo.png"
     },
     {
-      "name": "矩形-gh线路",
+      "name": "矩形-gh",
       "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/logo2.png"
     },
     {
-      "name": "白底-gh线路",
+      "name": "白底-gh",
       "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/logo3.png"
     }
   ]
