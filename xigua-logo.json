@@ -25,6 +25,30 @@
     {
       "name": "白底-gh",
       "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/logo3.png"
+    },
+    {
+      "name": "bot-cf",
+      "url": "https://pic.xghub.de/bot.png"
+    },
+    {
+      "name": "picture-cf",
+      "url": "https://pic.xghub.de/picture.png"
+    },
+    {
+      "name": "push-cf",
+      "url": "https://pic.xghub.de/push.png"
+    },
+    {
+      "name": "bot-gh",
+      "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/bot.png"
+    },
+    {
+      "name": "picture-gh",
+      "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/picture.png"
+    },
+    {
+      "name": "push-gh",
+      "url": "https://raw.githubusercontent.com/xiguaboss/pic/main/push.png"
     }
   ]
 }
